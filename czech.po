@@ -123,7 +123,7 @@ msgstr "Včelí Královna vyžaduje květiny."
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToMale(4).LinesToMale
 msgctxt ",022313C047D185193F98C48BE5852E62"
 msgid "It's not often one so small has the courage to dick a kraken. I hope my fleshy body pleased you."
-msgstr ""
+msgstr "Nestává se, že by tak malý tvor měl odvahu vymrdat krakena. Doufám, že sis užil mé masité tělo."
 
 #. Key:	026D19BC4A6B81E2694FF6B5E6EC3D9C
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMDefault_RL5_F.Default__DMDefault_RL5_F_C.ResponseData(1).ResponseData.BreederPrompt
@@ -179,7 +179,7 @@ msgstr "..."
 #: /Game/Characters/Procedural/Variants/Titan/Harvest/TitanHarvest.Default__TitanHarvest_C.Harvest.Description
 msgctxt ",035C033E4F7C9048462B63880FD96732"
 msgid "Titan body fluids."
-msgstr "Tělesné tekutiny rasy Titan."
+msgstr "Tekutiny rasy Titan."
 
 #. Key:	035F52234F8DA96ED37A5AAC5DD88039
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(4).LinesToMale
@@ -6206,7 +6206,7 @@ msgstr "Už budu... ahhh… to bude špinavé."
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay1.Default__MegaSlimePlay1_C.SessionData.LinesToFuta(0).LinesToFuta
 msgctxt ",744AC6EA4EF6E8F4298079829B209661"
 msgid "You are so kind! No one has ever been so nice to me!"
-msgstr ""
+msgstr "Jsi tak laskavý! Nikdo ke mně nikdy nebyl tak hodný!"
 
 #. Key:	744F4E844CF281ADE05939B86FCE678E
 #. SourceLocation:	/Game/Dialogue/Mirru/Default/MirruDefault01_BodySexToy_RL_T.Default__MirruDefault01_BodySexToy_RL_T_C.ResponseData(2).ResponseData.BreederPrompt
@@ -6220,21 +6220,21 @@ msgstr "Máš více srdcí?!"
 #: /Game/Dialogue/QueenBee/Default/BeeDefault03_RL.Default__BeeDefault03_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",7468ACB44E64BE348C44FFAF36EB756D"
 msgid "I will figure out how to make the flowers grow."
-msgstr ""
+msgstr "Přijdu na to, jak přimět květiny, aby rostly."
 
 #. Key:	748A7C25489A4B1CEC2B5D91B815FE8D
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePearl.Default__MegaSlimePearl_C.SessionData.Lines(2).Lines
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePearl.Default__MegaSlimePearl_C.SessionData.Lines(2).Lines
 msgctxt ",748A7C25489A4B1CEC2B5D91B815FE8D"
 msgid "I want to give you something in return."
-msgstr ""
+msgstr "Chci ti dát něco na oplátku."
 
 #. Key:	74AA1A6D401AC350EC36AA9E8E34202A
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeHadSex01.Default__MegaSlimeHadSex01_C.SessionData.LinesToFuta(1).LinesToFuta
 msgctxt ",74AA1A6D401AC350EC36AA9E8E34202A"
 msgid "*Yawn*"
-msgstr ""
+msgstr "*Zívnutí*"
 
 #. Key:	74E667E542A1B2DD54B1A4852E0B5BDE
 #. SourceLocation:	/Game/Dialogue/Fern/DefaultP2/FernDefault02_RL_T.Default__FernDefault02_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
@@ -6248,21 +6248,21 @@ msgstr "Změnila ses!"
 #: /Game/World/Events/EM_Keystone.Default__EM_Keystone_C.FailMessage
 msgctxt ",750AE2DA411665A89B7126BAB42FC805"
 msgid "It's stuck in slime."
-msgstr ""
+msgstr "Je to zaseknuté ve slizu."
 
 #. Key:	7519309946A12CD84883FC98FC964091
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.CBGate_Peak.PlaceMessage
 #: /Game/World/Overworld.Overworld:PersistentLevel.CBGate_Peak.PlaceMessage
 msgctxt ",7519309946A12CD84883FC98FC964091"
 msgid "Climax Peak is now accessible."
-msgstr ""
+msgstr "Climax Peak je nyní přístupný."
 
 #. Key:	752BA5D9498A3D0A3B274BA6E3AFDDAE
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(11 - Value).TravelShrines.ShrineName
 msgctxt ",752BA5D9498A3D0A3B274BA6E3AFDDAE"
 msgid "Lewd Desert"
-msgstr ""
+msgstr "Lewd Desert"
 
 #. Key:	7531D7CC4B4C50FC4972DB878B5DEDCA
 #. SourceLocation:	/Game/Dialogue/Leylanna/Default/LeylannaDefault01_RL.Default__LeylannaDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -6304,7 +6304,7 @@ msgstr "Co pro tebe může pokorná mořská panna udělat?"
 #: /Game/Dialogue/Falene/Default/FaleneDefault02.Default__FaleneDefault02_C.SessionData.Lines(1).Lines
 msgctxt ",76389D804BFE8383064F778E692DD2D9"
 msgid "The tiny little adorable nugget over there is my assistant Camilla."
-msgstr ""
+msgstr "Támhle to malé rozkošné zlatíčko, je moje asistentka Camilla."
 
 #. Key:	76894E414F0E86A40CDEB69862E1A67C
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_R01.Default__FaleneDefault01_R01_C.SessionData.Lines(1).Lines
@@ -6318,7 +6318,7 @@ msgstr "Abych byla upřímná, úplně nechápeme, jak to funguje, ale vytvořil
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeVerySad3.Default__MegaSlimeVerySad3_C.SessionData.Lines(0).Lines
 msgctxt ",768DD9E6434228B7421D599AE774A24C"
 msgid "*ENDLESS SOBBING*"
-msgstr ""
+msgstr "*NEKONEČNÉ VZLYKÁNÍ*"
 
 #. Key:	76C3B8B24ADB1D21C1F205A4E3B35D2A
 #. SourceLocation:	/Game/UI/DefaultTheme.DefaultTheme.StyleData.TraitIcons(31 - Value).TraitIcons.HelpText
@@ -6332,7 +6332,7 @@ msgstr "Atypický: Zdědí jinou výšku těla netypickou pro svou variantu."
 #: /Game/Dialogue/Falene/Default/FaleneDefault02.Default__FaleneDefault02_C.SessionData.Lines(3).Lines
 msgctxt ",76DCFBB44EA9841F910FB9BE2CBD16B7"
 msgid "Of course we make love! What else are assistants for?"
-msgstr ""
+msgstr "Ovšem, že si zašukáme! Na co jiného jsou asistentky?"
 
 #. Key:	76DD724248BA7178346EC59171F3BDF4
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyGreeting01.Default__RomyGreeting01_C.SessionData.LinesGrungy(5).LinesGrungy
@@ -6416,7 +6416,7 @@ msgstr "Strávila jsem v Prázdnotě bezpočet let a dostala se daleko od Lamijs
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimeVerySad.Default__MegaSlimeVerySad_C.SessionData.Lines(1).Lines
 msgctxt ",79024D21459BC365A01399ABC4581F9B"
 msgid "It was so beautiful..."
-msgstr ""
+msgstr "To bylo vynikající..."
 
 #. Key:	7921ED37459363625C14BEAA60B51F49
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01_Pregnancy.Default__FaleneDefault01_Pregnancy_C.SessionData.Lines(4).Lines
@@ -6430,14 +6430,14 @@ msgstr "Není to úžasné a rozkošné?!!!"
 #: /Game/Dialogue/Kybele/Default/KybeleHadSex01.Default__KybeleHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",7989199A4B0BA24F0B904493FCC965AC"
 msgid "Still... you took my fat horse cock well. That's amazing for one of your size!"
-msgstr ""
+msgstr "Přesto... dobře jsi udělala jsi moje tlusté koňské péro. To je úžasné pro někoho s takovou velikostí."
 
 #. Key:	7A0924884575833B8154E88AE733B3E4
 #. SourceLocation:	/Game/World/Overworld.Overworld:PersistentLevel.EM_Keystone_Kybele.FailMessage
 #: /Game/World/Overworld.Overworld:PersistentLevel.EM_Keystone_Kybele.FailMessage
 msgctxt ",7A0924884575833B8154E88AE733B3E4"
 msgid "Kybele fiercely guards this keystone."
-msgstr ""
+msgstr "Kybele urputně chrání tenhle keystone."
 
 #. Key:	7A22D0874255FC1001174C8C01466911
 #. SourceLocation:	/Game/Dialogue/MegaSlime/Default/MegaSlimePearl.Default__MegaSlimePearl_C.SessionData.Lines(3).Lines
@@ -6472,14 +6472,14 @@ msgstr "Odpočiň si, zatímco potěším tvé péro mazivem."
 #: /Game/Dialogue/Fesssi/Default/FesssiIdiots.Default__FesssiIdiots_C.SessionData.Lines(0).Lines
 msgctxt ",7A69F5FB4A97FC4EE925589FFD78142E"
 msgid "Indeed, sexy horny idiots. Hiss!"
-msgstr ""
+msgstr "Vskutku, sexy nadržení idioti. Ssss!"
 
 #. Key:	7A7EFCC44E743CC63CBCBB86D21C890C
 #. SourceLocation:	/Game/Dialogue/OrcChief/Default/OrcBrashDumb.Default__OrcBrashDumb_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/OrcChief/Default/OrcBrashDumb.Default__OrcBrashDumb_C.SessionData.Lines(1).Lines
 msgctxt ",7A7EFCC44E743CC63CBCBB86D21C890C"
 msgid "Orcs are strong... maybe dumb, but strong."
-msgstr ""
+msgstr "Orkové jsou silní... možná tupí, ale silní."
 
 #. Key:	7AE87BF645B6A4B1D35071A966CCF13E
 #. SourceLocation:	/Game/Dialogue/Emissary/Default/EmissaryDefault01_RL.Default__EmissaryDefault01_RL_C.ResponseData(1).ResponseData.BreederPrompt
@@ -6493,7 +6493,7 @@ msgstr "Navýšit úroveň zkušeností."
 #: /Game/World/Overworld.Overworld:PersistentLevel.EM_Keystone_DM.FailMessage
 msgctxt ",7AF5BE374EF5FF228013EAB5CEA00E2E"
 msgid "Don't touch this."
-msgstr ""
+msgstr "Nešahej na to."
 
 #. Key:	7B46D37346081D01CB0C9B8C6CAEE2DF
 #. SourceLocation:	/Game/Dialogue/Neela/Default/NeelaDefault01_RL.Default__NeelaDefault01_RL_C.ResponseData(4).ResponseData.BreederPrompt
@@ -6514,7 +6514,7 @@ msgstr "Šťavnatý"
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(3).LinesToFemale
 msgctxt ",7BA3471A456AB33D0F6E1AB523E14EBC"
 msgid "Believe it or not, I held back and could have drenched you with more kraken cum."
-msgstr ""
+msgstr "Věř tomu nebo ne, držela jsem se zpátky. Mohla jsem tě zalít více krakením semenem."
 
 #. Key:	7BA8039A45383C5B11EEA9AC428E3158
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneHadSex01.Default__FaleneHadSex01_C.SessionData.LinesToMale(0).LinesToMale
@@ -6528,35 +6528,35 @@ msgstr ""
 #: /Game/Dialogue/Petra/Default/PetraPracticeMe.Default__PetraPracticeMe_C.SessionData.Lines(0).Lines
 msgctxt ",7BD230084E2B289F72FCC48F4E4B7CB8"
 msgid "How sweet! Awww..."
-msgstr ""
+msgstr "Jak sladké! Awww..."
 
 #. Key:	7BF991CE424A23FC457D0E9B71CACEBE
 #. SourceLocation:	/Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(1).Lines
 #: /Game/Dialogue/DragonMatriarch/Default/DMGreeting01.Default__DMGreeting01_C.SessionData.Lines(1).Lines
 msgctxt ",7BF991CE424A23FC457D0E9B71CACEBE"
 msgid "Is this a dream? Humans aren't supposed to exist."
-msgstr ""
+msgstr "Je tohle sen? Lidé nemají existovat."
 
 #. Key:	7C125E5D4D9517525ACC16A414D5C0E1
 #. SourceLocation:	/Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(4).Lines
 #: /Game/Dialogue/Autumn/Default/DryadGreeting01.Default__DryadGreeting01_C.SessionData.Lines(4).Lines
 msgctxt ",7C125E5D4D9517525ACC16A414D5C0E1"
 msgid "I didn't notice I had a visitor. A human visitor... how interesting."
-msgstr ""
+msgstr "Nevšimla jsem si, že mám návštěvu. Lidskou návštěvu... jak zajímavé."
 
 #. Key:	7C3236894BBFE97A5B89BC84CF6B44F2
 #. SourceLocation:	/Game/Dialogue/Petra/Default/PetraDefault01.Default__PetraDefault01_C.SessionData.Lines(0).Lines
 #: /Game/Dialogue/Petra/Default/PetraDefault01.Default__PetraDefault01_C.SessionData.Lines(0).Lines
 msgctxt ",7C3236894BBFE97A5B89BC84CF6B44F2"
 msgid "Aww the cute human has returned."
-msgstr ""
+msgstr "Aww ten roztomilý člověk se vrátil."
 
 #. Key:	7C3F628D4E83DBC5016EC8A8263D2372
 #. SourceLocation:	/Game/Dialogue/Widow/Default/WidowDefault01_RL.Default__WidowDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 #: /Game/Dialogue/Widow/Default/WidowDefault01_RL.Default__WidowDefault01_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",7C3F628D4E83DBC5016EC8A8263D2372"
 msgid "Scary!"
-msgstr ""
+msgstr "Děsivé!"
 
 #. Key:	7C4054234127D8843978CD80C4B540B7
 #. SourceLocation:	/Game/Dialogue/Camilla/SexScenes/CamillaAdorableLump.Default__CamillaAdorableLump_C.SessionData.LinesToMale(1).LinesToMale
@@ -6570,7 +6570,7 @@ msgstr "Ano... oh ano, to je ono! Strč ho co nejdál!"
 #: /Game/Dialogue/Kybele/Default/KybeleAnyMeans_RL_T.Default__KybeleAnyMeans_RL_T_C.ResponseData(1).ResponseData.BreederPrompt
 msgctxt ",7C47118C4A51AA8F9E612C99BCE37ABF"
 msgid "I will be leaving now..."
-msgstr ""
+msgstr "Tak já teda půjdu..."
 
 #. Key:	7C5554A44E14D8611780E99EAC37F747
 #. SourceLocation:	/Game/Dialogue/Romy/Default/RomyLockedDungeon.Default__RomyLockedDungeon_C.SessionData.Lines(0).Lines
@@ -6661,7 +6661,7 @@ msgstr ""
 #: /Game/UI/DefaultTheme.DefaultTheme.StyleData.TravelShrines(10 - Value).TravelShrines.ShrineName
 msgctxt ",7E871257404E27C20903A3877220C69A"
 msgid "Pleasure Pastures"
-msgstr ""
+msgstr "Pleasure Pastures"
 
 #. Key:	7E8B7E764E94AEB05F7AEBA0A2B30442
 #. SourceLocation:	/Game/Dialogue/Fesssi/Default/FesssiDefault03_RL_F.Default__FesssiDefault03_RL_F_C.ResponseData(2).ResponseData.BreederPrompt
@@ -6682,7 +6682,7 @@ msgstr ""
 #: /Game/Dialogue/Mirru/SexScenes/MirruKrakVag.Default__MirruKrakVag_C.SessionData.Lines(1).Lines
 msgctxt ",7ECA06BA481C3327A91288A9BFF1F23D"
 msgid "Ahh... ohhhh... yes!"
-msgstr "Ahh… ohhhh… ano!"
+msgstr "Ahh... ohhhh... ano!"
 
 #. Key:	7ED8B0A7419F30B18D98B1BF4842D4A5
 #. SourceLocation:	/Game/Dialogue/Blossom/Default/BlossomDefault01_R03.Default__BlossomDefault01_R03_C.SessionData.Lines(1).Lines
@@ -17175,7 +17175,7 @@ msgstr "Filtrovat podle statistik."
 #: Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:215
 msgctxt "SSexyRoamerMenu,Breeder"
 msgid "Breeder:"
-msgstr "Šlechtitel:"
+msgstr "Chovatel:"
 
 #. Key:	CatchButton
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexyRoamerMenu.cpp:112
@@ -17315,7 +17315,7 @@ msgstr "Všechny cheaty byly odstraněny."
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1004
 msgctxt "SSexySettingsMenu,CheatSpirit"
 msgid "You now have infinite spirit."
-msgstr "Nyní máš nekonečno duševní energie."
+msgstr "Nyní máš neomezenou duševní energii."
 
 #. Key:	CheatSurprise
 #. SourceLocation:	Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1040
@@ -17392,7 +17392,7 @@ msgstr ""
 #: Source/Radiant/Public/UI/Menus/SexySettingsMenu.cpp:1082
 msgctxt "SSexySettingsMenu,ProudMother"
 msgid "Your mother would be so proud."
-msgstr ""
+msgstr "Tvoje máma by byla pyšná."
 
 #. Key:	SizePairs
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexySexPositionDetails.cpp:35
@@ -17406,7 +17406,7 @@ msgstr "Dvojice se scénou"
 #: Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:231
 msgctxt "SSexyTaskGridItem,DaysRemaining"
 msgid "Days remaining: {0}"
-msgstr "Dnů zbývá: {0}"
+msgstr "Zbývající dny: {0}"
 
 #. Key:	Reward
 #. SourceLocation:	Source/Radiant/Public/UI/Components/SexyTaskGridItem.cpp:151
